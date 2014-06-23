@@ -9,6 +9,7 @@ Contributors
 * chocopun \<b1012181@gmail.com>
 * tos_kamiya \<kamiya@mbj.nifty.com>
 * ochinchin-man \<ochinchin@ochin.in>
+* unko-man \<unkoman@unko.out>
 * conflict_man2 \<conflict2@example.com>
 * conflict man \<conflict@example.com>
 * conflict man \<conflict2@example.com>
